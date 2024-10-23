@@ -1,6 +1,6 @@
 This Repository is the representation of the project that I have done using the Actix web and SQLx.
 
-To start this project, you need to run the following commands:
+To start this project, you need to run the following commands:<br>
 ```make postgres```
 --- This command will pull the postgres image from docker hub and run it.
 
